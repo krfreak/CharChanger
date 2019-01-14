@@ -21,6 +21,8 @@ public class SoA_CC extends JFrame {
 	 * @author Tim-Lukas Schnell (c)2009
 	 */
 	private static final long serialVersionUID = 1L;
+	
+	private static final String VERSION = "1.3";
 
 	JLabel copyright = new JLabel("(c)by Nitemare 2009");
 
@@ -42,7 +44,7 @@ public class SoA_CC extends JFrame {
 	PoxCreator poxc = new PoxCreator(this);
 
 	public SoA_CC() {
-		super("Siege of Avalon - CharChanger 1.2");
+		super("Siege of Avalon - CharChanger " + VERSION);
 		setLayout(null);
 		setBounds(400, 400, 400, 250);
 		setVisible(true);
