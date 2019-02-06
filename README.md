@@ -1,0 +1,1 @@
+An old tool to change your character appearance in the game Siege of Avalon I wrote back in 2008. Updated some stuff to make it compile on newer Java versions. Coding fails are due to my inexperience back in that time.
